@@ -1,0 +1,252 @@
+,Date,Home Team,Away Team,Home Score,Away Score,Tournament,City,Country,Neutral,Outcome,Winning Team,Losing Team,Total Goals,Year,Decade,Month,Month Name,Day of Week
+1,1873-03-08,England,Scotland,4,2,Friendly,London,England,False,H,England,Scotland,6,1873,1870,3,March,Saturday
+11,1879-04-05,England,Scotland,5,4,Friendly,London,England,False,H,England,Scotland,9,1879,1870,4,April,Saturday
+58,1888-03-17,Scotland,England,0,5,British Championship,Glasgow,Scotland,False,A,England,Scotland,5,1888,1880,3,March,Saturday
+79,1891-04-06,England,Scotland,2,1,British Championship,Blackburn,England,False,H,England,Scotland,3,1891,1890,4,April,Monday
+85,1892-04-02,Scotland,England,1,4,British Championship,Glasgow,Scotland,False,A,England,Scotland,5,1892,1890,4,April,Saturday
+90,1893-04-01,England,Scotland,5,2,British Championship,Richmond,England,False,H,England,Scotland,7,1893,1890,4,April,Saturday
+102,1895-04-06,England,Scotland,3,0,British Championship,Liverpool,England,False,H,England,Scotland,3,1895,1890,4,April,Saturday
+120,1898-04-02,Scotland,England,1,3,British Championship,Glasgow,Scotland,False,A,England,Scotland,4,1898,1890,4,April,Saturday
+126,1899-04-08,England,Scotland,2,1,British Championship,Birmingham,England,False,H,England,Scotland,3,1899,1890,4,April,Saturday
+150,1903-03-21,Scotland,Northern Ireland,0,2,British Championship,Glasgow,Scotland,False,A,Northern Ireland,Scotland,2,1903,1900,3,March,Saturday
+162,1904-04-09,Scotland,England,0,1,British Championship,Glasgow,Scotland,False,A,England,Scotland,1,1904,1900,4,April,Saturday
+168,1905-03-06,Wales,Scotland,3,1,British Championship,Wrexham,Wales,False,H,Wales,Scotland,4,1905,1900,3,March,Monday
+171,1905-04-01,England,Scotland,1,0,British Championship,London,England,False,H,England,Scotland,1,1905,1900,4,April,Saturday
+179,1906-03-03,Scotland,Wales,0,2,British Championship,Edinburgh,Scotland,False,A,Wales,Scotland,2,1906,1900,3,March,Saturday
+194,1907-03-04,Wales,Scotland,1,0,British Championship,Wrexham,Wales,False,H,Wales,Scotland,1,1907,1900,3,March,Monday
+232,1909-03-01,Wales,Scotland,3,2,British Championship,Wrexham,Wales,False,H,Wales,Scotland,5,1909,1900,3,March,Monday
+237,1909-04-03,England,Scotland,2,0,British Championship,London,England,False,H,England,Scotland,2,1909,1900,4,April,Saturday
+255,1910-03-19,Northern Ireland,Scotland,1,0,British Championship,Belfast,Ireland,False,H,Northern Ireland,Scotland,1,1910,1910,3,March,Saturday
+358,1913-04-05,England,Scotland,1,0,British Championship,London,England,False,H,England,Scotland,1,1913,1910,4,April,Saturday
+543,1920-04-10,England,Scotland,5,4,British Championship,Sheffield,England,False,H,England,Scotland,9,1920,1920,4,April,Saturday
+623,1922-02-04,Wales,Scotland,2,1,British Championship,Wrexham,Wales,False,H,Wales,Scotland,3,1922,1920,2,February,Saturday
+781,1924-02-16,Wales,Scotland,2,0,British Championship,Cardiff,Wales,False,H,Wales,Scotland,2,1924,1920,2,February,Saturday
+1034,1927-04-02,Scotland,England,1,2,British Championship,Glasgow,Scotland,False,A,England,Scotland,3,1927,1920,4,April,Saturday
+1112,1928-02-25,Scotland,Northern Ireland,0,1,British Championship,Glasgow,Scotland,False,A,Northern Ireland,Scotland,1,1928,1920,2,February,Saturday
+1274,1930-04-05,England,Scotland,5,2,British Championship,London,England,False,H,England,Scotland,7,1930,1930,4,April,Saturday
+1397,1931-05-16,Austria,Scotland,5,0,Friendly,Vienna,Austria,False,H,Austria,Scotland,5,1931,1930,5,May,Saturday
+1399,1931-05-20,Italy,Scotland,3,0,Friendly,Rome,Italy,False,H,Italy,Scotland,3,1931,1930,5,May,Wednesday
+1471,1932-04-09,England,Scotland,3,0,British Championship,London,England,False,H,England,Scotland,3,1932,1930,4,April,Saturday
+1538,1932-10-26,Scotland,Wales,2,5,British Championship,Edinburgh,Scotland,False,A,Wales,Scotland,7,1932,1930,10,October,Wednesday
+1608,1933-09-16,Scotland,Northern Ireland,1,2,British Championship,Glasgow,Scotland,False,A,Northern Ireland,Scotland,3,1933,1930,9,September,Saturday
+1614,1933-10-04,Wales,Scotland,3,2,British Championship,Cardiff,Wales,False,H,Wales,Scotland,5,1933,1930,10,October,Wednesday
+1669,1934-04-14,England,Scotland,3,0,British Championship,London,England,False,H,England,Scotland,3,1934,1930,4,April,Saturday
+1739,1934-10-20,Northern Ireland,Scotland,2,1,British Championship,Belfast,Northern Ireland,False,H,Northern Ireland,Scotland,3,1934,1930,10,October,Saturday
+1930,1936-12-02,Scotland,Wales,1,2,British Championship,Dundee,Scotland,False,A,Wales,Scotland,3,1936,1930,12,December,Wednesday
+2036,1937-10-30,Wales,Scotland,2,1,British Championship,Cardiff,Wales,False,H,Wales,Scotland,3,1937,1930,10,October,Saturday
+2217,1939-04-15,Scotland,England,1,2,British Championship,Glasgow,Scotland,False,A,England,Scotland,3,1939,1930,4,April,Saturday
+2644,1946-10-19,Wales,Scotland,3,1,British Championship,Wrexham,Wales,False,H,Wales,Scotland,4,1946,1940,10,October,Saturday
+2689,1947-05-18,Belgium,Scotland,2,1,Friendly,Brussels,Belgium,False,H,Belgium,Scotland,3,1947,1940,5,May,Sunday
+2743,1947-10-04,Northern Ireland,Scotland,2,0,British Championship,Belfast,Northern Ireland,False,H,Northern Ireland,Scotland,2,1947,1940,10,October,Saturday
+2763,1947-11-12,Scotland,Wales,1,2,British Championship,Glasgow,Scotland,False,A,Wales,Scotland,3,1947,1940,11,November,Wednesday
+2828,1948-04-10,Scotland,England,0,2,British Championship,Glasgow,Scotland,False,A,England,Scotland,2,1948,1940,4,April,Saturday
+2840,1948-05-17,Switzerland,Scotland,2,1,Friendly,Berne,Switzerland,False,H,Switzerland,Scotland,3,1948,1940,5,May,Monday
+2842,1948-05-23,France,Scotland,3,0,Friendly,Colombes,France,False,H,France,Scotland,3,1948,1940,5,May,Sunday
+3097,1950-04-15,Scotland,England,0,1,FIFA World Cup qualification,Glasgow,Scotland,False,A,England,Scotland,1,1950,1950,4,April,Saturday
+3209,1950-12-13,Scotland,Austria,0,1,Friendly,Glasgow,Scotland,False,A,Austria,Scotland,1,1950,1950,12,December,Wednesday
+3241,1951-05-27,Austria,Scotland,4,0,Friendly,Vienna,Austria,False,H,Austria,Scotland,4,1951,1950,5,May,Sunday
+3293,1951-11-14,Scotland,Wales,0,1,British Championship,Glasgow,Scotland,False,A,Wales,Scotland,1,1951,1950,11,November,Wednesday
+3328,1952-04-05,Scotland,England,1,2,British Championship,Glasgow,Scotland,False,A,England,Scotland,3,1952,1950,4,April,Saturday
+3356,1952-05-30,Sweden,Scotland,3,1,Friendly,Solna,Sweden,False,H,Sweden,Scotland,4,1952,1950,5,May,Friday
+3488,1953-05-06,Scotland,Sweden,1,2,Friendly,Glasgow,Scotland,False,A,Sweden,Scotland,3,1953,1950,5,May,Wednesday
+3623,1954-04-03,Scotland,England,2,4,FIFA World Cup qualification,Glasgow,Scotland,False,A,England,Scotland,6,1954,1950,4,April,Saturday
+3661,1954-06-16,Austria,Scotland,1,0,FIFA World Cup,Zürich,Switzerland,True,H,Austria,Scotland,1,1954,1950,6,June,Wednesday
+3672,1954-06-19,Scotland,Uruguay,0,7,FIFA World Cup,Basel,Switzerland,True,A,Uruguay,Scotland,7,1954,1950,6,June,Saturday
+3742,1954-12-08,Scotland,Hungary,2,4,Friendly,Glasgow,Scotland,False,A,Hungary,Scotland,6,1954,1950,12,December,Wednesday
+3772,1955-04-02,England,Scotland,7,2,British Championship,London,England,False,H,England,Scotland,9,1955,1950,4,April,Saturday
+3796,1955-05-29,Hungary,Scotland,3,1,Friendly,Budapest,Hungary,False,H,Hungary,Scotland,4,1955,1950,5,May,Sunday
+3857,1955-10-08,Northern Ireland,Scotland,2,1,British Championship,Belfast,Northern Ireland,False,H,Northern Ireland,Scotland,3,1955,1950,10,October,Saturday
+4134,1957-04-06,England,Scotland,2,1,British Championship,London,England,False,H,England,Scotland,3,1957,1950,4,April,Saturday
+4171,1957-05-26,Spain,Scotland,4,1,FIFA World Cup qualification,Madrid,Spain,False,H,Spain,Scotland,5,1957,1950,5,May,Sunday
+4332,1958-04-19,Scotland,England,0,4,British Championship,Glasgow,Scotland,False,A,England,Scotland,4,1958,1950,4,April,Saturday
+4383,1958-06-11,Paraguay,Scotland,3,2,FIFA World Cup,Norrköping,Sweden,True,H,Paraguay,Scotland,5,1958,1950,6,June,Wednesday
+4388,1958-06-15,France,Scotland,2,1,FIFA World Cup,Örebro,Sweden,True,H,France,Scotland,3,1958,1950,6,June,Sunday
+4515,1959-04-11,England,Scotland,1,0,British Championship,London,England,False,H,England,Scotland,1,1959,1950,4,April,Saturday
+4549,1959-06-03,Portugal,Scotland,1,0,Friendly,Lisbon,Portugal,False,H,Portugal,Scotland,1,1959,1950,6,June,Wednesday
+4705,1960-05-04,Scotland,Poland,2,3,Friendly,Glasgow,Scotland,False,A,Poland,Scotland,5,1960,1960,5,May,Wednesday
+4724,1960-05-29,Austria,Scotland,4,1,Friendly,Vienna,Austria,False,H,Austria,Scotland,5,1960,1960,5,May,Sunday
+4731,1960-06-08,Turkey,Scotland,4,2,Friendly,Ankara,Turkey,False,H,Turkey,Scotland,6,1960,1960,6,June,Wednesday
+4830,1960-10-22,Wales,Scotland,2,0,British Championship,Cardiff,Wales,False,H,Wales,Scotland,2,1960,1960,10,October,Saturday
+4909,1961-04-15,England,Scotland,9,3,British Championship,London,England,False,H,England,Scotland,12,1961,1960,4,April,Saturday
+4931,1961-05-14,Czechoslovakia,Scotland,4,0,FIFA World Cup qualification,Bratislava,Czechoslovakia,False,H,Czechoslovakia,Scotland,4,1961,1960,5,May,Sunday
+5053,1961-11-29,Czechoslovakia,Scotland,4,2,FIFA World Cup qualification,Brussels,Belgium,True,H,Czechoslovakia,Scotland,6,1961,1960,11,November,Wednesday
+5110,1962-05-02,Scotland,Uruguay,2,3,Friendly,Glasgow,Scotland,False,A,Uruguay,Scotland,5,1962,1960,5,May,Wednesday
+5441,1963-06-04,Norway,Scotland,4,3,Friendly,Bergen,Norway,False,H,Norway,Scotland,7,1963,1960,6,June,Tuesday
+5444,1963-06-09,Republic of Ireland,Scotland,1,0,Friendly,Dublin,Republic of Ireland,False,H,Republic of Ireland,Scotland,1,1963,1960,6,June,Sunday
+5512,1963-10-12,Northern Ireland,Scotland,2,1,British Championship,Belfast,Northern Ireland,False,H,Northern Ireland,Scotland,3,1963,1960,10,October,Saturday
+5718,1964-10-03,Wales,Scotland,3,2,British Championship,Cardiff,Wales,False,H,Wales,Scotland,5,1964,1960,10,October,Saturday
+6023,1965-10-02,Northern Ireland,Scotland,3,2,British Championship,Belfast,Northern Ireland,False,H,Northern Ireland,Scotland,5,1965,1960,10,October,Saturday
+6032,1965-10-13,Scotland,Poland,1,2,FIFA World Cup qualification,Glasgow,Scotland,False,A,Poland,Scotland,3,1965,1960,10,October,Wednesday
+6095,1965-12-07,Italy,Scotland,3,0,FIFA World Cup qualification,Naples,Italy,False,H,Italy,Scotland,3,1965,1960,12,December,Tuesday
+6130,1966-04-02,Scotland,England,3,4,British Championship,Glasgow,Scotland,False,A,England,Scotland,7,1966,1960,4,April,Saturday
+6170,1966-05-11,Scotland,Netherlands,0,3,Friendly,Glasgow,Scotland,False,A,Netherlands,Scotland,3,1966,1960,5,May,Wednesday
+6215,1966-06-18,Scotland,Portugal,0,1,Friendly,Glasgow,Scotland,False,A,Portugal,Scotland,1,1966,1960,6,June,Saturday
+6559,1967-05-10,Scotland,Russia,0,2,Friendly,Glasgow,Scotland,False,A,Russia,Scotland,2,1967,1960,5,May,Wednesday
+6698,1967-10-21,Northern Ireland,Scotland,1,0,UEFA Euro qualification,Belfast,Northern Ireland,False,H,Northern Ireland,Scotland,1,1967,1960,10,October,Saturday
+7181,1969-05-10,England,Scotland,4,1,British Championship,London,England,False,H,England,Scotland,5,1969,1960,5,May,Saturday
+7358,1969-10-22,Germany,Scotland,3,2,FIFA World Cup qualification,Hamburg,Germany,False,H,Germany,Scotland,5,1969,1960,10,October,Wednesday
+7385,1969-11-05,Austria,Scotland,2,0,FIFA World Cup qualification,Vienna,Austria,False,H,Austria,Scotland,2,1969,1960,11,November,Wednesday
+7794,1971-02-03,Belgium,Scotland,3,0,UEFA Euro qualification,Liège,Belgium,False,H,Belgium,Scotland,3,1971,1970,2,February,Wednesday
+7827,1971-04-21,Portugal,Scotland,2,0,UEFA Euro qualification,Lisbon,Portugal,False,H,Portugal,Scotland,2,1971,1970,4,April,Wednesday
+7866,1971-05-18,Scotland,Northern Ireland,0,1,British Championship,Glasgow,Scotland,False,A,Northern Ireland,Scotland,1,1971,1970,5,May,Tuesday
+7873,1971-05-22,England,Scotland,3,1,British Championship,London,England,False,H,England,Scotland,4,1971,1970,5,May,Saturday
+7904,1971-06-09,Denmark,Scotland,1,0,UEFA Euro qualification,Copenhagen,Denmark,False,H,Denmark,Scotland,1,1971,1970,6,June,Wednesday
+7917,1971-06-14,Russia,Scotland,1,0,Friendly,Moscow,Soviet Union,False,H,Russia,Scotland,1,1971,1970,6,June,Monday
+8145,1971-12-01,Netherlands,Scotland,2,1,Friendly,Amsterdam,Netherlands,False,H,Netherlands,Scotland,3,1971,1970,12,December,Wednesday
+8314,1972-05-27,Scotland,England,0,1,British Championship,Glasgow,Scotland,False,A,England,Scotland,1,1972,1970,5,May,Saturday
+8389,1972-07-05,Brazil,Scotland,1,0,Brazil Independence Cup,Rio de Janeiro,Brazil,False,H,Brazil,Scotland,1,1972,1970,7,July,Wednesday
+8620,1973-02-14,Scotland,England,0,5,Friendly,Glasgow,Scotland,False,A,England,Scotland,5,1973,1970,2,February,Wednesday
+8737,1973-05-16,Scotland,Northern Ireland,1,2,British Championship,Glasgow,Scotland,False,A,Northern Ireland,Scotland,3,1973,1970,5,May,Wednesday
+8741,1973-05-19,England,Scotland,1,0,British Championship,London,England,False,H,England,Scotland,1,1973,1970,5,May,Saturday
+8798,1973-06-22,Switzerland,Scotland,1,0,Friendly,Berne,Switzerland,False,H,Switzerland,Scotland,1,1973,1970,6,June,Friday
+8803,1973-06-30,Scotland,Brazil,0,1,Friendly,Glasgow,Scotland,False,A,Brazil,Scotland,1,1973,1970,6,June,Saturday
+8963,1973-10-17,Czechoslovakia,Scotland,1,0,FIFA World Cup qualification,Bratislava,Czechoslovakia,False,H,Czechoslovakia,Scotland,1,1973,1970,10,October,Wednesday
+9123,1974-03-27,Germany,Scotland,2,1,Friendly,Frankfurt am Main,Germany,False,H,Germany,Scotland,3,1974,1970,3,March,Wednesday
+9158,1974-05-11,Scotland,Northern Ireland,0,1,British Championship,Glasgow,Scotland,False,A,Northern Ireland,Scotland,1,1974,1970,5,May,Saturday
+9182,1974-06-01,Belgium,Scotland,2,1,Friendly,Bruges,Belgium,False,H,Belgium,Scotland,3,1974,1970,6,June,Saturday
+9351,1974-11-20,Scotland,Spain,1,2,UEFA Euro qualification,Glasgow,Scotland,False,A,Spain,Scotland,3,1974,1970,11,November,Wednesday
+9525,1975-05-24,England,Scotland,5,1,British Championship,London,England,False,H,England,Scotland,6,1975,1970,5,May,Saturday
+10091,1976-10-13,Czechoslovakia,Scotland,2,0,FIFA World Cup qualification,Prague,Czechoslovakia,False,H,Czechoslovakia,Scotland,2,1976,1970,10,October,Wednesday
+10409,1977-06-23,Brazil,Scotland,2,0,Friendly,Rio de Janeiro,Brazil,False,H,Brazil,Scotland,2,1977,1970,6,June,Thursday
+10480,1977-09-07,German DR,Scotland,1,0,Friendly,Berlin,German DR,False,H,German DR,Scotland,1,1977,1970,9,September,Wednesday
+10735,1978-05-20,Scotland,England,0,1,British Championship,Glasgow,Scotland,False,A,England,Scotland,1,1978,1970,5,May,Saturday
+10752,1978-06-03,Peru,Scotland,3,1,FIFA World Cup,Córdoba,Argentina,True,H,Peru,Scotland,4,1978,1970,6,June,Saturday
+10868,1978-09-20,Austria,Scotland,3,2,UEFA Euro qualification,Vienna,Austria,False,H,Austria,Scotland,5,1978,1970,9,September,Wednesday
+10947,1978-11-29,Portugal,Scotland,1,0,UEFA Euro qualification,Lisbon,Portugal,False,H,Portugal,Scotland,1,1978,1970,11,November,Wednesday
+11093,1979-05-19,Wales,Scotland,3,0,British Championship,Cardiff,Wales,False,H,Wales,Scotland,3,1979,1970,5,May,Saturday
+11100,1979-05-26,England,Scotland,3,1,British Championship,London,England,False,H,England,Scotland,4,1979,1970,5,May,Saturday
+11109,1979-06-02,Scotland,Argentina,1,3,Friendly,Glasgow,Scotland,False,A,Argentina,Scotland,4,1979,1970,6,June,Saturday
+11357,1979-11-21,Belgium,Scotland,2,0,UEFA Euro qualification,Brussels,Belgium,False,H,Belgium,Scotland,2,1979,1970,11,November,Wednesday
+11381,1979-12-19,Scotland,Belgium,1,3,UEFA Euro qualification,Glasgow,Scotland,False,A,Belgium,Scotland,4,1979,1970,12,December,Wednesday
+11516,1980-05-16,Northern Ireland,Scotland,1,0,British Championship,Belfast,Northern Ireland,False,H,Northern Ireland,Scotland,1,1980,1980,5,May,Friday
+11528,1980-05-24,Scotland,England,0,2,British Championship,Glasgow,Scotland,False,A,England,Scotland,2,1980,1980,5,May,Saturday
+11529,1980-05-28,Poland,Scotland,1,0,Friendly,Poznań,Poland,False,H,Poland,Scotland,1,1980,1980,5,May,Wednesday
+11532,1980-05-31,Hungary,Scotland,3,1,Friendly,Budapest,Hungary,False,H,Hungary,Scotland,4,1980,1980,5,May,Saturday
+12062,1981-05-16,Wales,Scotland,2,0,British Championship,Swansea,Wales,False,H,Wales,Scotland,2,1981,1980,5,May,Saturday
+12329,1981-11-18,Portugal,Scotland,2,1,FIFA World Cup qualification,Lisbon,Portugal,False,H,Portugal,Scotland,3,1981,1980,11,November,Wednesday
+12419,1982-02-24,Spain,Scotland,3,0,Friendly,Valencia,Spain,False,H,Spain,Scotland,3,1982,1980,2,February,Wednesday
+12537,1982-05-29,Scotland,England,0,1,British Championship,Glasgow,Scotland,False,A,England,Scotland,1,1982,1980,5,May,Saturday
+12566,1982-06-18,Brazil,Scotland,4,1,FIFA World Cup,Seville,Spain,True,H,Brazil,Scotland,5,1982,1980,6,June,Friday
+12716,1982-11-17,Switzerland,Scotland,2,0,UEFA Euro qualification,Berne,Switzerland,False,H,Switzerland,Scotland,2,1982,1980,11,November,Wednesday
+12733,1982-12-15,Belgium,Scotland,3,2,UEFA Euro qualification,Brussels,Belgium,False,H,Belgium,Scotland,5,1982,1980,12,December,Wednesday
+12891,1983-06-01,England,Scotland,2,0,British Championship,London,England,False,H,England,Scotland,2,1983,1980,6,June,Wednesday
+13135,1983-11-16,German DR,Scotland,2,1,UEFA Euro qualification,Halle,German DR,False,H,German DR,Scotland,3,1983,1980,11,November,Wednesday
+13177,1983-12-13,Northern Ireland,Scotland,2,0,British Championship,Belfast,Northern Ireland,False,H,Northern Ireland,Scotland,2,1983,1980,12,December,Tuesday
+13346,1984-06-01,France,Scotland,2,0,Friendly,Marseille,France,False,H,France,Scotland,2,1984,1980,6,June,Friday
+13816,1985-02-27,Spain,Scotland,1,0,FIFA World Cup qualification,Seville,Spain,False,H,Spain,Scotland,1,1985,1980,2,February,Wednesday
+13875,1985-03-27,Scotland,Wales,0,1,FIFA World Cup qualification,Glasgow,Scotland,False,A,Wales,Scotland,1,1985,1980,3,March,Wednesday
+14445,1986-04-23,England,Scotland,2,1,Rous Cup,London,England,False,H,England,Scotland,3,1986,1980,4,April,Wednesday
+14501,1986-06-04,Scotland,Denmark,0,1,FIFA World Cup,Nezahualcóyotl,Mexico,True,A,Denmark,Scotland,1,1986,1980,6,June,Wednesday
+14515,1986-06-08,Germany,Scotland,2,1,FIFA World Cup,Querétaro,Mexico,True,H,Germany,Scotland,3,1986,1980,6,June,Sunday
+14714,1987-02-18,Scotland,Republic of Ireland,0,1,UEFA Euro qualification,Glasgow,Scotland,False,A,Republic of Ireland,Scotland,1,1987,1980,2,February,Wednesday
+14775,1987-04-01,Belgium,Scotland,4,1,UEFA Euro qualification,Brussels,Belgium,False,H,Belgium,Scotland,5,1987,1980,4,April,Wednesday
+14825,1987-05-26,Scotland,Brazil,0,2,Rous Cup,Glasgow,Scotland,False,A,Brazil,Scotland,2,1987,1980,5,May,Tuesday
+15236,1988-05-21,England,Scotland,1,0,Rous Cup,London,England,False,H,England,Scotland,1,1988,1980,5,May,Saturday
+15583,1988-12-22,Italy,Scotland,2,0,Friendly,Perugia,Italy,False,H,Italy,Scotland,2,1988,1980,12,December,Thursday
+15828,1989-05-27,Scotland,England,0,2,Rous Cup,Glasgow,Scotland,False,A,England,Scotland,2,1989,1980,5,May,Saturday
+16039,1989-09-06,Yugoslavia,Scotland,3,1,FIFA World Cup qualification,Zagreb,Yugoslavia,False,H,Yugoslavia,Scotland,4,1989,1980,9,September,Wednesday
+16067,1989-10-11,France,Scotland,3,0,FIFA World Cup qualification,Paris,France,False,H,France,Scotland,3,1989,1980,10,October,Wednesday
+16308,1990-04-25,Scotland,German DR,0,1,Friendly,Glasgow,Scotland,False,A,German DR,Scotland,1,1990,1990,4,April,Wednesday
+16333,1990-05-16,Scotland,Egypt,1,3,Friendly,Aberdeen,Scotland,False,A,Egypt,Scotland,4,1990,1990,5,May,Wednesday
+16391,1990-06-11,Costa Rica,Scotland,1,0,FIFA World Cup,Genoa,Italy,True,H,Costa Rica,Scotland,1,1990,1990,6,June,Monday
+16414,1990-06-20,Brazil,Scotland,1,0,FIFA World Cup,Turin,Italy,True,H,Brazil,Scotland,1,1990,1990,6,June,Wednesday
+16654,1991-02-06,Scotland,Russia,0,1,Friendly,Glasgow,Scotland,False,A,Russia,Scotland,1,1991,1990,2,February,Wednesday
+17034,1991-10-16,Romania,Scotland,1,0,UEFA Euro qualification,Bucharest,Romania,False,H,Romania,Scotland,1,1991,1990,10,October,Wednesday
+17297,1992-06-12,Netherlands,Scotland,1,0,UEFA Euro,Gothenburg,Sweden,True,H,Netherlands,Scotland,1,1992,1990,6,June,Friday
+17308,1992-06-15,Scotland,Germany,0,2,UEFA Euro,Norrköping,Sweden,True,A,Germany,Scotland,2,1992,1990,6,June,Monday
+17477,1992-09-09,Switzerland,Scotland,3,1,FIFA World Cup qualification,Berne,Switzerland,False,H,Switzerland,Scotland,4,1992,1990,9,September,Wednesday
+17838,1993-03-24,Scotland,Germany,0,1,Friendly,Glasgow,Scotland,False,A,Germany,Scotland,1,1993,1990,3,March,Wednesday
+17961,1993-04-28,Portugal,Scotland,5,0,FIFA World Cup qualification,Lisbon,Portugal,False,H,Portugal,Scotland,5,1993,1990,4,April,Wednesday
+18341,1993-10-13,Italy,Scotland,3,1,FIFA World Cup qualification,Rome,Italy,False,H,Italy,Scotland,4,1993,1990,10,October,Wednesday
+18541,1994-03-23,Scotland,Netherlands,0,1,Friendly,Glasgow,Scotland,False,A,Netherlands,Scotland,1,1994,1990,3,March,Wednesday
+18653,1994-05-27,Netherlands,Scotland,3,1,Friendly,Utrecht,Netherlands,False,H,Netherlands,Scotland,4,1994,1990,5,May,Friday
+18995,1994-12-18,Greece,Scotland,1,0,UEFA Euro qualification,Athens,Greece,False,H,Greece,Scotland,1,1994,1990,12,December,Sunday
+19503,1995-10-11,Sweden,Scotland,2,0,Friendly,Solna,Sweden,False,H,Sweden,Scotland,2,1995,1990,10,October,Wednesday
+19818,1996-04-24,Denmark,Scotland,2,0,Friendly,Copenhagen,Denmark,False,H,Denmark,Scotland,2,1996,1990,4,April,Wednesday
+19901,1996-05-26,United States,Scotland,2,1,Friendly,New Britain,United States,False,H,United States,Scotland,3,1996,1990,5,May,Sunday
+19908,1996-05-29,Colombia,Scotland,1,0,Friendly,Miami,United States,True,H,Colombia,Scotland,1,1996,1990,5,May,Wednesday
+19998,1996-06-15,England,Scotland,2,0,UEFA Euro,London,England,False,H,England,Scotland,2,1996,1990,6,June,Saturday
+20783,1997-04-30,Sweden,Scotland,2,1,FIFA World Cup qualification,Gothenburg,Sweden,False,H,Sweden,Scotland,3,1997,1990,4,April,Wednesday
+20817,1997-05-27,Scotland,Wales,0,1,Friendly,Kilmarnock,Scotland,False,A,Wales,Scotland,1,1997,1990,5,May,Tuesday
+21263,1997-11-12,France,Scotland,2,1,Friendly,Saint-Étienne,France,False,H,France,Scotland,3,1997,1990,11,November,Wednesday
+21502,1998-03-25,Scotland,Denmark,0,1,Friendly,Glasgow,Scotland,False,A,Denmark,Scotland,1,1998,1990,3,March,Wednesday
+21634,1998-06-10,Brazil,Scotland,2,1,FIFA World Cup,Saint-Denis,France,True,H,Brazil,Scotland,3,1998,1990,6,June,Wednesday
+21671,1998-06-23,Scotland,Morocco,0,3,FIFA World Cup,Saint-Étienne,France,True,A,Morocco,Scotland,3,1998,1990,6,June,Tuesday
+22211,1999-03-31,Scotland,Czech Republic,1,2,UEFA Euro qualification,Glasgow,Scotland,False,A,Czech Republic,Scotland,3,1999,1990,3,March,Wednesday
+22356,1999-06-09,Czech Republic,Scotland,3,2,UEFA Euro qualification,Prague,Czech Republic,False,H,Czech Republic,Scotland,5,1999,1990,6,June,Wednesday
+22706,1999-11-13,Scotland,England,0,2,UEFA Euro qualification,Glasgow,Scotland,False,A,England,Scotland,2,1999,1990,11,November,Saturday
+23036,2000-03-29,Scotland,France,0,2,Friendly,Glasgow,Scotland,False,A,France,Scotland,2,2000,2000,3,March,Wednesday
+23763,2000-11-15,Scotland,Australia,0,2,Friendly,Glasgow,Scotland,False,A,Australia,Scotland,2,2000,2000,11,November,Wednesday
+24618,2001-09-05,Belgium,Scotland,2,0,FIFA World Cup qualification,Brussels,Belgium,False,H,Belgium,Scotland,2,2001,2000,9,September,Wednesday
+25006,2002-03-27,France,Scotland,5,0,Friendly,Saint-Denis,France,False,H,France,Scotland,5,2002,2000,3,March,Wednesday
+25055,2002-04-17,Scotland,Nigeria,1,2,Friendly,Aberdeen,Scotland,False,A,Nigeria,Scotland,3,2002,2000,4,April,Wednesday
+25087,2002-05-16,South Korea,Scotland,4,1,Friendly,Busan,South Korea,False,H,South Korea,Scotland,5,2002,2000,5,May,Thursday
+25109,2002-05-20,Scotland,South Africa,0,2,Friendly,So Kon Po,Hong Kong,True,A,South Africa,Scotland,2,2002,2000,5,May,Monday
+25280,2002-08-21,Scotland,Denmark,0,1,Friendly,Glasgow,Scotland,False,A,Denmark,Scotland,1,2002,2000,8,August,Wednesday
+25479,2002-11-20,Portugal,Scotland,2,0,Friendly,Braga,Portugal,False,H,Portugal,Scotland,2,2002,2000,11,November,Wednesday
+25646,2003-02-12,Scotland,Republic of Ireland,0,2,Friendly,Glasgow,Scotland,False,A,Republic of Ireland,Scotland,2,2003,2000,2,February,Wednesday
+25809,2003-04-02,Lithuania,Scotland,1,0,UEFA Euro qualification,Kaunas,Lithuania,False,H,Lithuania,Scotland,1,2003,2000,4,April,Wednesday
+25856,2003-04-30,Scotland,Austria,0,2,Friendly,Glasgow,Scotland,False,A,Austria,Scotland,2,2003,2000,4,April,Wednesday
+26217,2003-09-10,Germany,Scotland,2,1,UEFA Euro qualification,Dortmund,Germany,False,H,Germany,Scotland,3,2003,2000,9,September,Wednesday
+26445,2003-11-19,Netherlands,Scotland,6,0,UEFA Euro qualification,Amsterdam,Netherlands,False,H,Netherlands,Scotland,6,2003,2000,11,November,Wednesday
+26651,2004-02-18,Wales,Scotland,4,0,Friendly,Cardiff,Wales,False,H,Wales,Scotland,4,2004,2000,2,February,Wednesday
+26732,2004-03-31,Scotland,Romania,1,2,Friendly,Glasgow,Scotland,False,A,Romania,Scotland,3,2004,2000,3,March,Wednesday
+26767,2004-04-28,Denmark,Scotland,1,0,Friendly,Copenhagen,Denmark,False,H,Denmark,Scotland,1,2004,2000,4,April,Wednesday
+27168,2004-08-18,Scotland,Hungary,0,3,Friendly,Glasgow,Scotland,False,A,Hungary,Scotland,3,2004,2000,8,August,Wednesday
+27328,2004-10-09,Scotland,Norway,0,1,FIFA World Cup qualification,Glasgow,Scotland,False,A,Norway,Scotland,1,2004,2000,10,October,Saturday
+27463,2004-11-17,Scotland,Sweden,1,4,Friendly,Edinburgh,Scotland,False,A,Sweden,Scotland,5,2004,2000,11,November,Wednesday
+27737,2005-03-26,Italy,Scotland,2,0,FIFA World Cup qualification,Milan,Italy,False,H,Italy,Scotland,2,2005,2000,3,March,Saturday
+28202,2005-10-08,Scotland,Belarus,0,1,FIFA World Cup qualification,Glasgow,Scotland,False,A,Belarus,Scotland,1,2005,2000,10,October,Saturday
+28519,2006-03-01,Scotland,Switzerland,1,3,Friendly,Glasgow,Scotland,False,A,Switzerland,Scotland,4,2006,2000,3,March,Wednesday
+29066,2006-10-11,Ukraine,Scotland,2,0,UEFA Euro qualification,Kyiv,Ukraine,False,H,Ukraine,Scotland,2,2006,2000,10,October,Wednesday
+29422,2007-03-28,Italy,Scotland,2,0,UEFA Euro qualification,Bari,Italy,False,H,Italy,Scotland,2,2007,2000,3,March,Wednesday
+30001,2007-10-17,Georgia,Scotland,2,0,UEFA Euro qualification,Tbilisi,Georgia,False,H,Georgia,Scotland,2,2007,2000,10,October,Wednesday
+30087,2007-11-17,Scotland,Italy,1,2,UEFA Euro qualification,Glasgow,Scotland,False,A,Italy,Scotland,3,2007,2000,11,November,Saturday
+30508,2008-05-30,Czech Republic,Scotland,3,1,Friendly,Prague,Czech Republic,False,H,Czech Republic,Scotland,4,2008,2000,5,May,Friday
+30931,2008-09-06,North Macedonia,Scotland,1,0,FIFA World Cup qualification,Skopje,North Macedonia,False,H,North Macedonia,Scotland,1,2008,2000,9,September,Saturday
+31220,2008-11-19,Scotland,Argentina,0,1,Friendly,Glasgow,Scotland,False,A,Argentina,Scotland,1,2008,2000,11,November,Wednesday
+31472,2009-03-28,Netherlands,Scotland,3,0,FIFA World Cup qualification,Amsterdam,Netherlands,False,H,Netherlands,Scotland,3,2009,2000,3,March,Saturday
+31816,2009-08-12,Norway,Scotland,4,0,FIFA World Cup qualification,Oslo,Norway,False,H,Norway,Scotland,4,2009,2000,8,August,Wednesday
+31931,2009-09-09,Scotland,Netherlands,0,1,FIFA World Cup qualification,Glasgow,Scotland,False,A,Netherlands,Scotland,1,2009,2000,9,September,Wednesday
+31973,2009-10-10,Japan,Scotland,2,0,Friendly,Yokohama,Japan,False,H,Japan,Scotland,2,2009,2000,10,October,Saturday
+32114,2009-11-14,Wales,Scotland,3,0,Friendly,Cardiff,Wales,False,H,Wales,Scotland,3,2009,2000,11,November,Saturday
+32593,2010-08-11,Sweden,Scotland,3,0,Friendly,Solna,Sweden,False,H,Sweden,Scotland,3,2010,2010,8,August,Wednesday
+32765,2010-10-08,Czech Republic,Scotland,1,0,UEFA Euro qualification,Prague,Czech Republic,False,H,Czech Republic,Scotland,1,2010,2010,10,October,Friday
+32860,2010-10-12,Scotland,Spain,2,3,UEFA Euro qualification,Glasgow,Scotland,False,A,Spain,Scotland,5,2010,2010,10,October,Tuesday
+33245,2011-03-27,Brazil,Scotland,2,0,Friendly,London,England,True,H,Brazil,Scotland,2,2011,2010,3,March,Sunday
+33323,2011-05-29,Republic of Ireland,Scotland,1,0,Nations Cup,Dublin,Republic of Ireland,False,H,Republic of Ireland,Scotland,1,2011,2010,5,May,Sunday
+33932,2011-10-11,Spain,Scotland,3,1,UEFA Euro qualification,Alicante,Spain,False,H,Spain,Scotland,4,2011,2010,10,October,Tuesday
+34357,2012-05-26,United States,Scotland,5,1,Friendly,Jacksonville,United States,False,H,United States,Scotland,6,2012,2010,5,May,Saturday
+34882,2012-10-12,Wales,Scotland,2,1,FIFA World Cup qualification,Cardiff,Wales,False,H,Wales,Scotland,3,2012,2010,10,October,Friday
+34894,2012-10-16,Belgium,Scotland,2,0,FIFA World Cup qualification,Brussels,Belgium,False,H,Belgium,Scotland,2,2012,2010,10,October,Tuesday
+35356,2013-03-22,Scotland,Wales,1,2,FIFA World Cup qualification,Glasgow,Scotland,False,A,Wales,Scotland,3,2013,2010,3,March,Friday
+35423,2013-03-26,Serbia,Scotland,2,0,FIFA World Cup qualification,Novi Sad,Serbia,False,H,Serbia,Scotland,2,2013,2010,3,March,Tuesday
+35700,2013-08-14,England,Scotland,3,2,Friendly,London,England,False,H,England,Scotland,5,2013,2010,8,August,Wednesday
+35798,2013-09-06,Scotland,Belgium,0,2,FIFA World Cup qualification,Glasgow,Scotland,False,A,Belgium,Scotland,2,2013,2010,9,September,Friday
+36603,2014-09-07,Germany,Scotland,2,1,UEFA Euro qualification,Dortmund,Germany,False,H,Germany,Scotland,3,2014,2010,9,September,Sunday
+36911,2014-11-18,Scotland,England,1,3,Friendly,Glasgow,Scotland,False,A,England,Scotland,4,2014,2010,11,November,Tuesday
+37544,2015-09-04,Georgia,Scotland,1,0,UEFA Euro qualification,Tbilisi,Georgia,False,H,Georgia,Scotland,1,2015,2010,9,September,Friday
+37603,2015-09-07,Scotland,Germany,2,3,UEFA Euro qualification,Glasgow,Scotland,False,A,Germany,Scotland,5,2015,2010,9,September,Monday
+38233,2016-05-29,Italy,Scotland,1,0,Friendly,Attard,Malta,True,H,Italy,Scotland,1,2016,2010,5,May,Sunday
+38322,2016-06-04,France,Scotland,3,0,Friendly,Metz,France,False,H,France,Scotland,3,2016,2010,6,June,Saturday
+38740,2016-10-11,Slovakia,Scotland,3,0,FIFA World Cup qualification,Trnava,Slovakia,False,H,Slovakia,Scotland,3,2016,2010,10,October,Tuesday
+38789,2016-11-11,England,Scotland,3,0,FIFA World Cup qualification,London,England,False,H,England,Scotland,3,2016,2010,11,November,Friday
+39708,2017-11-09,Scotland,Netherlands,0,1,Friendly,Aberdeen,Scotland,False,A,Netherlands,Scotland,1,2017,2010,11,November,Thursday
+39960,2018-03-23,Scotland,Costa Rica,0,1,Friendly,Glasgow,Scotland,False,A,Costa Rica,Scotland,1,2018,2010,3,March,Friday
+40087,2018-05-29,Peru,Scotland,2,0,Friendly,Lima,Peru,False,H,Peru,Scotland,2,2018,2010,5,May,Tuesday
+40125,2018-06-02,Mexico,Scotland,1,0,Friendly,Mexico City,Mexico,False,H,Mexico,Scotland,1,2018,2010,6,June,Saturday
+40359,2018-09-07,Scotland,Belgium,0,4,Friendly,Glasgow,Scotland,False,A,Belgium,Scotland,4,2018,2010,9,September,Friday
+40462,2018-10-11,Israel,Scotland,2,1,UEFA Nations League,Haifa,Israel,False,H,Israel,Scotland,3,2018,2010,10,October,Thursday
+40533,2018-10-14,Scotland,Portugal,1,3,Friendly,Glasgow,Scotland,False,A,Portugal,Scotland,4,2018,2010,10,October,Sunday
+40856,2019-03-21,Kazakhstan,Scotland,3,0,UEFA Euro qualification,Nur-Sultan,Kazakhstan,False,H,Kazakhstan,Scotland,3,2019,2010,3,March,Thursday
+41110,2019-06-11,Belgium,Scotland,3,0,UEFA Euro qualification,Brussels,Belgium,False,H,Belgium,Scotland,3,2019,2010,6,June,Tuesday
+41411,2019-09-06,Scotland,Russia,1,2,UEFA Euro qualification,Glasgow,Scotland,False,A,Russia,Scotland,3,2019,2010,9,September,Friday
+41464,2019-09-09,Scotland,Belgium,0,4,UEFA Euro qualification,Glasgow,Scotland,False,A,Belgium,Scotland,4,2019,2010,9,September,Monday
+41559,2019-10-10,Russia,Scotland,4,0,UEFA Euro qualification,Moscow,Russia,False,H,Russia,Scotland,4,2019,2010,10,October,Thursday
+42176,2020-11-15,Slovakia,Scotland,1,0,UEFA Nations League,Trnava,Slovakia,False,H,Slovakia,Scotland,1,2020,2020,11,November,Sunday
+42219,2020-11-18,Israel,Scotland,1,0,UEFA Nations League,Netanya,Israel,False,H,Israel,Scotland,1,2020,2020,11,November,Wednesday
+42626,2021-06-14,Scotland,Czech Republic,0,2,UEFA Euro,Glasgow,Scotland,False,A,Czech Republic,Scotland,2,2021,2020,6,June,Monday
+42681,2021-06-22,Scotland,Croatia,1,3,UEFA Euro,Glasgow,Scotland,False,A,Croatia,Scotland,4,2021,2020,6,June,Tuesday
+42811,2021-09-01,Denmark,Scotland,2,0,FIFA World Cup qualification,Copenhagen,Denmark,False,H,Denmark,Scotland,2,2021,2020,9,September,Wednesday
+43628,2022-06-01,Scotland,Ukraine,1,3,FIFA World Cup qualification,Glasgow,Scotland,False,A,Ukraine,Scotland,4,2022,2020,6,June,Wednesday
+43845,2022-06-11,Republic of Ireland,Scotland,3,0,UEFA Nations League,Dublin,Republic of Ireland,False,H,Republic of Ireland,Scotland,3,2022,2020,6,June,Saturday
